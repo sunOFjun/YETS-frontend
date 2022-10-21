@@ -1,0 +1,33 @@
+.basicDiv {
+  width: 800px;
+  border: 5px solid;
+}
+.headDiv {
+  width: 800px;
+}
+table {
+  width: 100%;
+  border: 1px solid #444444;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #444444;
+}
+
+.leftCell {
+  text-align: left;
+}
+
+td.mainRow {
+  text-align: left;
+  font-weight: bold;
+}
+
+td.subRow {
+  text-align: left;
+}
+
+input.input-number {
+  text-align: right;
+}
